@@ -1,5 +1,5 @@
 # Sobre mim 🧑
-Olá, me chamo João Vitor Farias, sou programador com foco FullStack. Desde muito novo sempre fui apaixonado por tecnologia e como as coisas funcionavam, mas fui me aprofundar na área de programação somente no ano de 2023, onde eu atualmente curso Desenvolvimento de Sistemas pelo SENAI.  
+Olá, me chamo João Vitor Farias, sou programador com foco Front-end e Mobile. Desde muito novo sempre fui apaixonado por tecnologia e como as coisas funcionavam, comecei a estudar programação no ano de 2023, atualmente sou técnico profissional em Desenvolvimento de Sistemas (Formado pelo SENAI) e faço faculdade de ADS.  
 
 # Conecte-se comigo 💬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snyted/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joaofarias_16@hotmail.com)
